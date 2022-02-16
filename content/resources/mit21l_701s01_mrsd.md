@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Reading questions on Mrs. Dalloway.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21l-701-literary-interpretation-virginia-woolfs-shakespeare-spring-2001/2feb9f0008dc64333cb63ed3900123ce_MIT21L_701S01_mrsd.pdf
+file: /media/courses/21l-701-literary-interpretation-virginia-woolfs-shakespeare-spring-2001/2feb9f0008dc64333cb63ed3900123ce_MIT21L_701S01_mrsd.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: Mrs. Dalloway Discussion Questions
 uid: 2feb9f00-08dc-6433-3cb6-3ed3900123ce
