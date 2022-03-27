@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: e899302d-917e-ac99-189e-5357f2751719
 resourcetype: Document
 title: 'Checklist for Editing your Partner''s Paper '
 uid: 8eef1800-41d9-c79f-754f-30e7259f7f85

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: e899302d-917e-ac99-189e-5357f2751719
 resourcetype: Document
 title: Orlando
 uid: 93970ed3-880a-f3ff-faef-a9b37e78a7ea

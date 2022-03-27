@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: e899302d-917e-ac99-189e-5357f2751719
 resourcetype: Document
 title: Mrs. Dalloway Discussion Questions
 uid: 2feb9f00-08dc-6433-3cb6-3ed3900123ce
