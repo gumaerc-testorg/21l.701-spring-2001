@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, requirements,
+  and grading. A complete syllabus handout is also provided.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -11,7 +13,7 @@ Course Meeting Times
 
 Lectures: 2 sessions / week, 1.5 hours / session
 
-Complete Syllabus Handout ([PDF]({{< baseurl >}}/resources/mit21l_701s01_vwsh2001))
+Complete Syllabus Handout ({{% resource_link bc55f229-29a4-a4ee-a311-390797eae64d "PDF" %}})
 -----------------------------------------------------------------------------------
 
 Requirements
