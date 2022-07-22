@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the reading questions and essay assignment for
+  the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: e899302d-917e-ac99-189e-5357f2751719
 ---
@@ -7,10 +12,10 @@ uid: e899302d-917e-ac99-189e-5357f2751719
 Readings Questions
 ------------------
 
-*   Reading Questions for _Mrs. Dalloway_ ([PDF]({{< baseurl >}}/resources/mit21l_701s01_mrsd))
-*   Reading Questions for _Orlando_ ([PDF]({{< baseurl >}}/resources/mit21l_701s01_orlando))
-*   Reading Questions for _A Room of One's Own_ ([PDF]({{< baseurl >}}/resources/mit21l_701s01_quest))
-*   Reading Questions for _Antony and Cleopatra_ ([PDF]({{< baseurl >}}/resources/mit21l_701s01_aandcques))
+*   Reading Questions for _Mrs. Dalloway_ ({{% resource_link 2feb9f00-08dc-6433-3cb6-3ed3900123ce "PDF" %}})
+*   Reading Questions for _Orlando_ ({{% resource_link 93970ed3-880a-f3ff-faef-a9b37e78a7ea "PDF" %}})
+*   Reading Questions for _A Room of One's Own_ ({{% resource_link 8d534a55-b098-b354-862a-1f078045cd02 "PDF" %}})
+*   Reading Questions for _Antony and Cleopatra_ ({{% resource_link 94f5f1ca-6d37-8a88-718b-4f8a22573ae9 "PDF" %}})
 
 Essay Assignment 1
 ------------------
@@ -23,4 +28,4 @@ Make sure to formulate a clear, thoughtful thesis about the relation between tex
 
 Five pages, due Thursday, September 30 in class. Please attend class whether you have finished or not: missing class does not constitute an extension of the deadline.
 
-Checklist for Editing your Partner's Paper ([PDF]({{< baseurl >}}/resources/mit21l_701s01_editing))
+Checklist for Editing your Partner's Paper ({{% resource_link 8eef1800-41d9-c79f-754f-30e7259f7f85 "PDF" %}})

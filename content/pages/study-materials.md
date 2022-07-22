@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides a link to a recording of Virginia Woolf followed
+  by the text of a series of e-mail exchanges that help provide a sense of the dynamic
+  of the class.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Study Materials
 uid: b1cb99ea-d67a-77e0-69e2-89afb2039b69
 ---
