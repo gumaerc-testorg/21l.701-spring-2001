@@ -5,6 +5,7 @@ file: /courses/21l-701-literary-interpretation-virginia-woolfs-shakespeare-sprin
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Orlando
 uid: 93970ed3-880a-f3ff-faef-a9b37e78a7ea
 ---
 Reading questions on Orlando.
-

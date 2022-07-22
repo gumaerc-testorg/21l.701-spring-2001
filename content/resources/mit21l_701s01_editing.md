@@ -5,6 +5,7 @@ file: /courses/21l-701-literary-interpretation-virginia-woolfs-shakespeare-sprin
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Checklist for Editing your Partner''s Paper '
 uid: 8eef1800-41d9-c79f-754f-30e7259f7f85
 ---
 Checklist for editing a partner’s paper for the course.
-

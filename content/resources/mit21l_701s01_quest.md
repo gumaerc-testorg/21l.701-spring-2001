@@ -5,6 +5,7 @@ file: /courses/21l-701-literary-interpretation-virginia-woolfs-shakespeare-sprin
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Discussion Questions for "A Room of One's Own,"
 uid: 8d534a55-b098-b354-862a-1f078045cd02
 ---
 Reading questions on A Room of One's Own.
-
