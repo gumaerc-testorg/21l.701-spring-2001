@@ -2,6 +2,7 @@
 content_type: resource
 description: Reading questions on Antony and Cleopatra.
 file: /courses/21l-701-literary-interpretation-virginia-woolfs-shakespeare-spring-2001/94f5f1ca6d378a88718b4f8a22573ae9_MIT21L_701S01_aandcques.pdf
+file_size: 606499
 file_type: application/pdf
 learning_resource_types:
 - Assignments
