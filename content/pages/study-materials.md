@@ -32,7 +32,7 @@ Let me sum up where we are and where we are going: We have all read, suggested q
 Instructor:
 
 This is a follow-up to Joyce's bluestocking query. Here's a link every Lit student should have bookmarked:  
-{{% resource_link "42c53fd7-fd42-471c-821c-d3457c3bdbdd" "http://dictionary.oed.com" %}}
+[http://dictionary.oed.com](http://dictionary.oed.com/)
 
 This is THE historical dictionary par excellence--begun in, you guessed it, the Victorian era (the great time of systematization of everything in massive tomes, such as this and the Dictionary of National Biography co-edited by Virginia's dad, Leslie Stephen). It gives earliest known uses of words, and is now being updated (since folks have discovered earlier uses of some words over the past 100+ years, not to mention new coinages).
 
@@ -123,7 +123,7 @@ Whos-Afraid,
 
 I looked up the plant I tried to convince everyone during class just must look phallic:
 
-{{% resource_link "4832d8fd-90ed-4b09-87ec-1f8695f84048" "http://commons.wikimedia.org/wiki/Plantago\_lanceolata" %}}
+[http://commons.wikimedia.org/wiki/Plantago\_lanceolata](http://commons.wikimedia.org/wiki/Plantago_lanceolata)
 
 It's Plantago lanceolata (found in the desert) from the Act 4 Scene 2 burial.
 
@@ -181,7 +181,7 @@ Okay I know these are lots of random questions but I had about a million more. I
 
 Link provided by another student, providing all the New York Times' book reviews of Woolf:
 
-{{% resource_link "13ecec80-731e-48f6-b788-5a37b7ef177b" "http://www.nytimes.com/books/00/12/17/specials/woolf.html?1220inside" %}}
+[http://www.nytimes.com/books/00/12/17/specials/woolf.html?1220inside](http://www.nytimes.com/books/00/12/17/specials/woolf.html?1220inside)
 
 Class #16:
 ----------
@@ -194,7 +194,7 @@ First things first:
 \[Note: the site containing this excerpt is no longer available\]
 
 "The Charge of the Light Brigade"  
-{{% resource_link "4f25d412-91b7-4f99-81fd-d4d7f45590ce" "http://www.nationalcenter.org/ChargeoftheLightBrigade.html" %}}
+[http://www.nationalcenter.org/ChargeoftheLightBrigade.html](http://www.nationalcenter.org/ChargeoftheLightBrigade.html)
 
 Second things second:
 
